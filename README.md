@@ -1,5 +1,5 @@
-# Svelte-Template
-Template for Svelte, TS, Taiwind and FiveM
+# Loading Screen (WIP)
+Loading screen for Fivem using Svelte, TS, Taiwind.
 
 Pretty cool.
 
